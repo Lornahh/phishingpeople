@@ -1,3 +1,3 @@
 function onSubmit(){
-  alert("Hello " + w0w +"!");
+  alert("Hello " + w0w.value +"!");
 }
